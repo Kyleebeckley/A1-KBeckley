@@ -1,7 +1,7 @@
 body {
     margin: 3vw 18vw;
     font-family: "Inter", sans-serif;
-    background-image: linear-gradient(to right,#40140B, #692214, #404040);
+    background-image: linear-gradient(to right,#cccccc, #8d8d8d, #404040);
 }
 
 nav ul{
@@ -14,4 +14,9 @@ nav ul{
 main{
     margin: 5vw;
     font-size: 1.5rem;
+}
+
+.nav a {
+    color: black;
+    text-decoration: none;
 }
