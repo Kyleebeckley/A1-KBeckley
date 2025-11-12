@@ -1,0 +1,17 @@
+body {
+    margin: 3vw 18vw;
+    font-family: "Inter", sans-serif;
+    background-image: linear-gradient(to right,#40140B, #692214, #404040);
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    float: right;
+}
+
+main{
+    margin: 5vw;
+    font-size: 1.5rem;
+}

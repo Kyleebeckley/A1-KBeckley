@@ -1,0 +1,11 @@
+---
+layout: layout.njk
+title: Autobiography
+---
+Alice in Chains is one of the most iconic and powerful bands to emerge from the late 1980s and early 1990s. Formed in 1987 by their guitarist Jerry Cantrell and drummer Sean Kinney the band then found its signature voice when Layne Staley joined as lead vocalist, bringing a voice that could be both painfully vulnerable and intensely powerful. as well as Bassist Mike Starr, later replaced by Mike Inez completeing the band. helping to anchor the band’s raw and heavy sound.
+
+Their debut album, Facelift released in 1990 introduced the world to their raw and relatable sound. Dirt was released in 1992. This is when the band captured their most angry and sorrow filled piece of art, diving into addiction and depression. Jar of Flies in 1994, an acoustic EP that revealed a more introspective and fragile side of the band, proving their versatility. However, the band’s trajectory was forever altered by Layne Staley’s struggles with addiction leading to his tragic death in 2002.
+
+After a period of silence and uncertainty, Alice in Chains returned in 2009 with Black Gives Way to Blue, welcoming William DuVall as co-vocalist. Honoring Staley’s memory while showing the band could continue to evolve. Their self-titled 2013 album and subsequent releases reinforced that Alice in Chains had matured into a band capable of combining their signature darkness with reflection.
+
+Across decades, Alice in Chains has remained a band of balance. heavy but peaceful, painful yet healing, angry yet strangely comforting. Their music holds a special place in so many people's hearts because it is relateable, honest, and powerful. Through loss, reinvention, and creativity Alice in Chains has proven that they are more than just a grunge band. They remain a voice for the shadows inside us all, turning pain into art in a way very few ever have.
